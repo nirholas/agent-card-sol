@@ -1,0 +1,11 @@
+{
+  "slug": "agent-card-sol",
+  "name": "Agent Card SOL",
+  "kind": "agent",
+  "description": "Publish a compact owner-signed agent identity and capability card.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
