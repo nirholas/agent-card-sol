@@ -1,5 +1,10 @@
 # Agent Card SOL
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/agent-card-sol?style=flat&logo=github)](https://github.com/nirholas/agent-card-sol/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/agent-card-sol?style=flat)](https://github.com/nirholas/agent-card-sol/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/agent-card-sol/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/agent-card-sol/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Publish a compact owner-signed agent identity and capability card.
 
 ## Why this exists
@@ -47,3 +52,26 @@ MIT
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/agent-card-sol&type=Date)](https://www.star-history.com/#nirholas/agent-card-sol&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If agent-card-sol saves you time, **[star it on GitHub](https://github.com/nirholas/agent-card-sol)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=agent-card-sol%3A%20Publish%20a%20compact%20owner-signed%20agent%20identity%20and%20capability%20card&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-card-sol) · [Share on Bluesky](https://bsky.app/intent/compose?text=agent-card-sol%3A%20Publish%20a%20compact%20owner-signed%20agent%20identity%20and%20capability%20card%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-card-sol) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-card-sol) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-card-sol&t=agent-card-sol%3A%20Publish%20a%20compact%20owner-signed%20agent%20identity%20and%20capability%20card) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-card-sol&title=agent-card-sol%3A%20Publish%20a%20compact%20owner-signed%20agent%20identity%20and%20capability%20card)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/agent-card-sol` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/agent-card-sol/issues) or [start a discussion](https://github.com/nirholas/agent-card-sol/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/agent-card-sol)](https://github.com/nirholas/agent-card-sol/graphs/contributors)
+
+<!-- /three.ws:growth -->
