@@ -8,7 +8,7 @@ Publish a compact owner-signed agent identity and capability card.
 
 - Source: https://github.com/nirholas/agent-card-sol
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
